@@ -38,3 +38,4 @@ Apuntes rápidos y comandos de red para mi ruta **Experto en Integración**.
 ![Git workflow demo](demo.gif)
 
 > _Actualiza el GIF después de cada mejora de flujo._
+## TCP vs UDP
