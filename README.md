@@ -11,6 +11,7 @@ Apuntes rápidos y comandos de red para mi ruta **Experto en Integración**.
   - [Herramientas de Diagnóstico](#herramientas-de-diagnóstico)
   - [Diagramas \& Recursos](#diagramas--recursos)
     - [Demo](#demo)
+  - [TCP vs UDP](#tcp-vs-udp)
 
 ---
 
