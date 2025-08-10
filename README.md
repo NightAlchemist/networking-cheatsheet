@@ -40,3 +40,4 @@ Apuntes rápidos y comandos de red para mi ruta **Experto en Integración**.
 
 > _Actualiza el GIF después de cada mejora de flujo._
 ## TCP vs UDP
+- Placeholder for ICMP tools
