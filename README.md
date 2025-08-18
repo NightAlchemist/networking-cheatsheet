@@ -28,7 +28,7 @@ Apuntes rápidos y comandos de red para mi ruta **Experto en Integración**.
 *(pendiente)*
 
 ## Herramientas de Diagnóstico
-*(pendiente)*
+Linea CONFLICTO en main (traceroute > mtr por claridad, explicación distinta)
 
 ## Diagramas & Recursos
 - Diagrama L3: PC → pfSense → Internet (en `/img/diagram.png`)
