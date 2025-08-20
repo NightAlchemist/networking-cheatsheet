@@ -42,3 +42,4 @@ Linea CONFLICTO en main (traceroute > mtr por claridad, explicación distinta)
 ## TCP vs UDP
 - Placeholder for ICMP tools
 - ping, traceroute, mtr
+- ICMP tools: ping, traceroute, mtr
